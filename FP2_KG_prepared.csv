@@ -1,0 +1,75 @@
+distWater,relief,soilType,soilUse,score,id,class
+0,D,Pdg,SAF de azinheira,0.0,FP8,0
+1,C,"Pag, Sr",Pastagens melhoradas,0.0,FP29,0
+1,D,Pgn,Culturas temporárias de sequeiro e regadio,0.0,FP62,0
+0,C,Pag,Florestas de azinheira,0.0,FP12,0
+0,D,"Vcx, Pc",Olivais,0.9898,FP34,0
+0,D,"Vcx, Pc",Olivais,0.7237,FP34,0
+1,D,Vt,SAF de sobreiro,0.0,FP26,0
+1,C,"Pag, Sr",Pastagens melhoradas,0.0,FP44,0
+0,D,Ex,Pastagens melhoradas,0.7872,FP31,0
+0,C,Pdg,SAF de azinheira,0.0,FP56,0
+0,D,"Pbc, Pdg",Culturas temporárias de sequeiro e regadio,0.0,FP7,0
+0,C,Pag,Pastagens melhoradas,0.0,FP16,0
+1,C,"Pdc, Pdg",SAF de azinheira,0.0,FP59,0
+0,D,Pag,SAF de azinheira,0.0,FP35,0
+0,D,Ex,Florestas de sobreiro,0.8633,FP33,0
+0,D,Ex,Florestas de sobreiro,0.8508,FP33,0
+1,C,"Pag, Sr",Olivais,0.9791,FP30,0
+0,D,"Sr, Pag",SAF de azinheira,0.0,FP36,0
+1,C,Pg,SAF de azinheira,0.0,FP64,0
+1,C,Vt,SAF de sobreiro,0.0,FP22,0
+1,C,Vt,SAF de sobreiro,0.9188,FP25,0
+0,D,"Pbc, Pdg, Pc'",SAF de azinheira,0.0,FP20,0
+1,C,Vt,SAF de sobreiro,0.0,FP21,0
+0,D,"Pbc, Pdg",SAF de sobreiro,0.0,FP19,0
+1,C,"Sr, Vgn",SAF de azinheira,0.0,FP67,0
+1,D,Vt,Olivais,0.0,FP23,0
+0,D,Vt,SAF de sobreiro,0.0,FP49,0
+1,C,Sr,Florestas de azinheira,0.0,FP5,0
+1,D,Pac,Pastagens melhoradas,0.0,FP28,0
+0,C,Pdg,SAF de azinheira,0.0,FP51,0
+0,C,Ex,SAF de sobreiro com azinheira,0.9836,FP27,0
+1,B,A,Culturas temporárias de sequeiro e regadio,0.0,FP65,0
+0,C,Pdg,Pastagens melhoradas,0.0,FP9,0
+0,C,Vt,Florestas de sobreiro,0.0,FP24,0
+0,D,Pag,Culturas temporárias de sequeiro e regadio,0.0,FP37,0
+1,B,"Pg, Arg",SAF de azinheira,0.7843,FP70,0
+0,D,"Pbc, Pdg",SAF de azinheira,0.9815,FP18,0
+0,C,Pdc,Pastagens melhoradas,0.0,FP4,0
+1,C,"Pag, Sr",Pastagens melhoradas,0.7582,FP43,0
+1,C,Cp,Culturas temporárias de sequeiro e regadio,0.0,FP2,0
+0,D,"Pag, Sr",SAF de sobreiro,0.0,FP38,0
+0,C,"Ppt, Vt",SAF de sobreiro,0.0,FP60,0
+0,D,Pac,SAF de azinheira,0.0,FP11,0
+1,C,Vt,Florestas de sobreiro,0.0,FP50,0
+1,C,Pg,SAF de azinheira,0.7009,FP15,0
+1,C,Pag,SAF de azinheira,0.819,FP14,0
+1,C,Pag,SAF de azinheira,0.7184,FP14,0
+0,C,Pdg,SAF de azinheira,0.0,FP57,0
+0,C,"Pdc, Pdg",SAF de azinheira,0.0,FP13,0
+1,C,"Pg, Arg",SAF de azinheira,0.9618,FP63,0
+1,C,"Pg, Arg",SAF de azinheira,0.8877,FP63,0
+1,D,"Pdg, Pbc",SAF de azinheira,0.9581,FP3,0
+0,C,Px,Pastagens melhoradas,0.0,FP42,0
+0,C,Vcm,Culturas temporárias de sequeiro e regadio,0.0,FP1,0
+0,C,Pdg,SAF de sobreiro,0.0,FP55,0
+0,C,Px,SAF de azinheira,0.0,FP45,0
+1,C,"Pg, Arg",SAF de azinheira,0.0,FP69,0
+0,C,Nv_asoc,SAF de azinheira,0.9744,FP10,0
+0,C,Vt,SAF de sobreiro,0.0,FP46,0
+0,C,Pg,Culturas temporárias de sequeiro e regadio,0.9951,FP6,0
+0,C,"Pdc, Pdg",SAF de azinheira,0.0,FP17,0
+0,D,Pdg,Florestas de azinheira,0.0,FP52,0
+0,C,Vt,Florestas de sobreiro,0.0,FP47,0
+1,C,"Pg, Arg",SAF de azinheira,0.0,FP68,0
+1,C,Ex,Matos,0.0,FP66,0
+1,D,"Vx, Sr",SAF de azinheira,0.0,FP41,0
+0,C,Vt,SAF de sobreiro,0.0,FP48,0
+0,C,"Pdc, Pdg",SAF de sobreiro,0.0,FP58,0
+0,D,"Vx, Vx",SAF de azinheira,0.0,FP32,0
+1,D,"Pag, Px",Culturas temporárias de sequeiro e regadio,0.0,FP40,0
+1,D,"Pmg, Pm",Culturas temporárias e/ou pastagens melhoradas associadas a olival,0.0,FP61,0
+1,D,Px,Culturas temporárias de sequeiro e regadio,0.0,FP39,0
+1,C,Pdg,Pastagens melhoradas,0.0,FP54,0
+0,D,Pdg,SAF de azinheira,0.0,FP53,0

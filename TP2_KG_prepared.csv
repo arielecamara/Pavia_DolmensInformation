@@ -1,0 +1,89 @@
+distWater,relief,soilType,soilUse,score,id,class
+1,D,"Pm, Arg",SAF de azinheira,0.78,D2,1
+1,C,"Pg, Arg",SAF de azinheira,0.81,D5,1
+1,D,Pg,SAF de azinheira,0.76,D131CA,1
+1,D,Nv_asoc,Tecido edificado contínuo predominantemente horizontal,0.71,D11,1
+0,C,Pdc,Florestas de azinheira,0.67,D14,1
+1,D,Pg,Pastagens melhoradas,0.7,D19,1
+1,D,"Pg, Arg",SAF de azinheira,0.79,D27,1
+1,B,Sr,SAF de azinheira,0.55,D40,1
+1,D,"Pg, Pmg",Culturas temporárias e/ou pastagens melhoradas associadas a olival,0.77,D45,1
+1,D,"Pmg, Pgn",SAF de sobreiro,0.66,D46,1
+1,C,"Pg, Arg",SAF de azinheira,0.84,D51,1
+1,D,"Pg, Arg",SAF de azinheira,0.71,D62,1
+1,C,"Pg, Arg",SAF de azinheira,0.74,D117CA,1
+0,C,Pdc,Florestas de azinheira,0.8,D14,1
+1,D,Pmg,SAF de azinheira,0.7632,D1,1
+1,D,"Pg, Arg",SAF de azinheira,0.0,D3,1
+1,D,"Pg, Arg",SAF de azinheira,0.7386,D4,1
+1,D,Pgn,SAF de azinheira,0.0,D6,1
+1,D,"Pg, Pmg",Pastagens melhoradas,0.0,D8,1
+1,D,Pg,Florestas de azinheira,0.0,D9,1
+1,D,Pg,SAF de azinheira,0.0,D10,1
+1,D,Pg,SAF de azinheira,0.0,D12,1
+1,D,Pg,SAF de azinheira,0.0,D13,1
+1,D,"Pg, Arg",SAF de azinheira,0.0,D15,1
+1,D,"Pg, Arg",SAF de azinheira,0.0,D16,1
+1,D,"Pg, Arg",SAF de azinheira,0.0,D17,1
+1,B,At,Pomares,0.9432,D18,1
+1,C,Pg,SAF de azinheira,0.0,D20,1
+1,D,Pg,SAF de azinheira,0.0,D21,1
+1,C,"Pg, Pmg",SAF de azinheira,0.822,D22,1
+1,C,Pg,Florestas de azinheira,0.0,D23,1
+1,D,"Pg, Arg",Pastagens melhoradas,0.0,D24,1
+1,C,Pg,SAF de azinheira,0.0,D25,1
+1,D,Pg,SAF de azinheira,0.0,D26,1
+1,D,Pg,Culturas temporárias de sequeiro e regadio,0.0,D28,1
+1,B,Vt,Pastagens melhoradas,0.0,D29,1
+1,B,Vt,Pastagens melhoradas,0.0,D30,1
+1,B,Vt,Pastagens melhoradas,0.0,D31,1
+1,B,Sr,Pastagens melhoradas,0.0,D32,1
+1,D,Pgn,SAF de azinheira,0.0,D33,1
+1,D,Sr,SAF de sobreiro com azinheira,0.0,D34,1
+1,D,Pdg,SAF de azinheira,0.0,D35,1
+1,B,A,Culturas temporárias de sequeiro e regadio,0.0,D36,1
+1,B,A,Pastagens melhoradas,0.0,D37,1
+1,D,Pm,Olivais,0.0,D38,1
+1,D,"Pg, Arg",Florestas de eucalipto,0.7211,D39,1
+1,C,Sr,Culturas temporárias de sequeiro e regadio,0.0,D41,1
+1,B,Pgn,Culturas temporárias de sequeiro e regadio,0.0,D42,1
+1,B,"Pg, Arg",SAF de azinheira,0.0,D43,1
+1,C,"Pg, Arg",SAF de azinheira,0.8925,D44,1
+1,D,"Pgn, Pgn",SAF de azinheira,0.0,D47,1
+0,D,Pg,SAF de azinheira,0.0,D49,1
+0,D,Pg,SAF de azinheira,0.0,D50CA,1
+1,C,"Pg, Arg",Florestas de pinheiro manso,0.8222,D52,1
+1,D,Pg,SAF de azinheira,0.0,D53,1
+0,C,Pgn,SAF de azinheira,0.0,D55,1
+0,C,Pgn,SAF de azinheira,0.9211,D56,1
+0,C,"Pg, Arg",SAF de azinheira,0.0,D57,1
+0,D,Pdg,SAF de sobreiro com azinheira,0.0,D58,1
+1,C,"Pdc, Pdg",Pastagens melhoradas,0.0,D59,1
+1,C,"Pdc, Pdg",Pastagens melhoradas,0.0,D60,1
+1,D,"Pg, Arg",SAF de azinheira,0.7561,D61,1
+1,D,Sr,Florestas de eucalipto,0.0,D63,1
+1,C,"Pg, Arg",SAF de azinheira,0.0,D64,1
+1,D,"Pg, Arg",Florestas de azinheira,0.0,D65,1
+1,D,Pmg,SAF de azinheira,0.0,D67,1
+1,D,"Pg, Arg",Pastagens melhoradas,0.0,D68,1
+1,D,Pac,SAF de azinheira,0.0,D69,1
+1,D,Vcm,SAF de azinheira,0.0,D70,1
+1,D,Pmg,SAF de azinheira,0.0,D71,1
+1,D,Pg,SAF de azinheira,0.0,D72,1
+1,C,Pg,Culturas temporárias de sequeiro e regadio,0.0,D73,1
+1,C,Vx,SAF de azinheira,0.0,D83CA,1
+1,C,"Px, Px",SAF de azinheira,0.0,D85CA,1
+0,C,Pgn,SAF de azinheira,0.9444,D89CA,1
+0,C,Pgn,SAF de azinheira,0.7131,D89CA,1
+0,C,Pgn,SAF de azinheira,0.0,D90CA,1
+0,C,Pgn,SAF de azinheira,0.0,D91CA,1
+1,D,Pgn,SAF de azinheira,0.0,D92CA,1
+1,D,Pgn,SAF de azinheira,0.0,D93CA,1
+0,D,"Pcs, Vt",Pastagens melhoradas,0.0,D106CA,1
+1,D,Vcm,SAF de azinheira,0.0,D111CA,1
+1,D,"Pgn, Pgn",SAF de azinheira,0.8507,D112CA,1
+1,D,Pg,SAF de azinheira,0.9348,D113CA,1
+1,D,Pg,Pastagens melhoradas,0.0,D114CA,1
+1,D,"Pg, Arg",Florestas de eucalipto,0.9882,D115CA,1
+1,D,Sr,Florestas de eucalipto,0.0,D116CA,1
+1,D,Pg,Florestas de azinheira,0.0,D132CA,1
